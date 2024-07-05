@@ -15,17 +15,7 @@
 
 <hr>
 
-## <span style="color:#1cb5ed;">Project for Hack36-2022</span>
 
-<h2 style="color:#1cb5ed;">Team Name - KhiKhiKhi</h2>
-
-<span style="color:#14c759;">Team Details</span>
-
-1. [Pushkar Patel](https://github.com/pushkar-dev)
-2. [Vinayak Sachan](https://github.com/metavinayak)
-3. [Piyush Verma](https://github.com/Pepinni)
-
-<hr>
 
 # <span style="color:#1cb5ed;">Features</span>
 
